@@ -14,3 +14,7 @@ This project generates images based on weather descriptions using automation too
 - Selenium
 - PyAutoGUI
 - Pollinations API access
+
+### Image of Helsinki Weather Description from 10th October 2024
+
+![Image of Helsinki Weather Description](https://github.com/yachi-arora/ai-automation-project/blob/main/pollinations-Image.png)
